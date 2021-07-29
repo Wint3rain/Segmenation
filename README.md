@@ -1,4 +1,4 @@
-# DeepLearning
+# Segmentation
 
 ## 1. VOC_Loader
 로더가 하는 일은 
